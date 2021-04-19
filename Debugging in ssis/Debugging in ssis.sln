@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Debugging in ssis", "Debugging in ssis\Debugging in ssis.dtproj", "{445A9250-C4D0-4D32-A4D8-699B4D4B7730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{445A9250-C4D0-4D32-A4D8-699B4D4B7730}.Development|Default.ActiveCfg = Development
+		{445A9250-C4D0-4D32-A4D8-699B4D4B7730}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A7184D4-0DBF-455A-B5ED-B1D60322AC8B}
+	EndGlobalSection
+EndGlobal
